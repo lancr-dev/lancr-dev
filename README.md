@@ -1,8 +1,9 @@
+<div align="center">
 # 🟢 Lance Ducante
 
 **`Web Designer & Web Developer`**
 
-I am both web designer and a web developer that help personal brands and businesses grow.
+I am both web designer and a web developer <br> that help personal brands and businesses grow.
 
 ## ⚙️ Languages and Tools
 ### Frontend:
@@ -32,3 +33,5 @@ I am both web designer and a web developer that help personal brands and busines
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23d85206?style=for-the-badge&logo=n8n&logoColor=white)
 ![Better Stack](https://img.shields.io/badge/Better%20Stack-black?style=for-the-badge&logo=betterstack&logoColor=white)
+
+</div>
