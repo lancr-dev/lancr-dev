@@ -1,5 +1,5 @@
 <div align="center">
-# 🟢 Lance Ducante
+<h1 align="center">🟢 Lance Ducante</h1>
 
 **`Web Designer & Web Developer`**
 
