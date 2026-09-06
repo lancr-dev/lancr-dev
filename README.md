@@ -3,7 +3,7 @@
 
 **`Web Designer & Web Developer`**
 
-I am both web designer and a web developer <br> that help personal brands and businesses grow.
+I am both web designer and a web developer <br> that help personal brands, entrepreneurs, and businesses grow.
 
 ## ⚙️ Languages and Tools
 ### Frontend:
