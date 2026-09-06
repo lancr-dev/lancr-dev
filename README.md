@@ -17,6 +17,7 @@ I am both web designer and a web developer <br> that help personal brands, entre
 ![Node JS](https://img.shields.io/badge/Node%20JS-%234e9640?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ac233?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=restapi&logoColor=white)
 
 ### Design:
 ![Canva](https://img.shields.io/badge/Canva-%23218ef2?style=for-the-badge&logo=canva&logoColor=white)
