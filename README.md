@@ -8,8 +8,9 @@ I am both web designer and a web developer <br> that help personal brands, entre
 ## ⚙️ Languages and Tools
 ### Development:
 ![HTML5](https://img.shields.io/badge/HTML5-%23fe4b01?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-%232196f2?style=for-the-badge&logo=css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%232196f2?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-green?style=for-the-badge&logo=seo)
 
 ### Design:
 ![Canva](https://img.shields.io/badge/Canva-%23218ef2?style=for-the-badge&logo=canva&logoColor=white)
@@ -17,10 +18,8 @@ I am both web designer and a web developer <br> that help personal brands, entre
 
 
 ### Platform Tools:
-![Postman](https://img.shields.io/badge/Postman-%23ff5c00?style=for-the-badge&logo=postman&logoColor=white)
-![Upstash](https://img.shields.io/badge/upstash-%23d81306?style=for-the-badge&logo=upstash&logoColor=white)
+![GSC](https://img.shields.io/badge/GSC-blue?style=for-the-badge&logo=seo)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render&logoColor=white)
 
 ### AI & Automation:
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logoColor=white)
