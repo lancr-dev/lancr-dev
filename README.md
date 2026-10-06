@@ -26,7 +26,7 @@ I am both Web Designer and a Web Developer <br> that help personal brands, entre
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23d85206?style=for-the-badge&logo=n8n&logoColor=white)
 
-### Currently Developing With:
+### Upskilling:
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node JS](https://img.shields.io/badge/Node%20JS-%234e9640?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black)
