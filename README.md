@@ -17,7 +17,7 @@ I am both Web Designer and a Web Developer <br> that help personal brands, entre
 ![Photoshop](https://img.shields.io/badge/Photoshop-%233c309d?style=for-the-badge&logo=adobe&logoColor=white)
 
 
-### Platform Tools:
+### Platform & Tools:
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![GSC](https://img.shields.io/badge/GSC-blue?style=for-the-badge&logo=seo)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
@@ -25,5 +25,17 @@ I am both Web Designer and a Web Developer <br> that help personal brands, entre
 ### AI & Automation:
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23d85206?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Currently Developing With:
+![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node JS](https://img.shields.io/badge/Node%20JS-%234e9640?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ac233?style=for-the-badge&logo=mongodb&logoColor=white)
+</br>
+![Upstash](https://img.shields.io/badge/Upstash-black?style=for-the-badge&logo=upstash&logoColor=blueGreen)
+![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=restapi&logoColor=white)
+![Better Stack](https://img.shields.io/badge/Better%20Stack-%23191970?style=for-the-badge&logo=better-stack&logoColor=blueGreen)
+![Postman](https://img.shields.io/badge/Postman-%23ff5c00?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
