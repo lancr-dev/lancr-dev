@@ -21,6 +21,7 @@ I am both Web Designer and a Web Developer <br> that help personal brands, entre
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![GSC](https://img.shields.io/badge/GSC-blue?style=for-the-badge&logo=seo)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F48120?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### AI & Automation:
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logoColor=white)
