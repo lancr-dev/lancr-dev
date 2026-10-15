@@ -18,6 +18,7 @@ I am both Web Designer and a Web Developer <br> that help personal brands, entre
 
 
 ### Platform & Tools:
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=%23F1502F)
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![GSC](https://img.shields.io/badge/GSC-blue?style=for-the-badge&logo=seo)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
